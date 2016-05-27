@@ -6,8 +6,8 @@ set nu
 set autoindent
 set scrolloff=2
 set wildmode=longest,list
-set ts=4
-set sts=4
+set ts=2
+set sts=2
 set sw=1
 set autowrite
 set autoread
@@ -15,13 +15,13 @@ set cindent
 set bs=eol,start,indent
 set history=256
 set laststatus=2
-set shiftwidth=4
+set shiftwidth=2
 set showmatch
 set smartcase
 set smarttab
 set smartindent
-set softtabstop=4
-set tabstop=4
+set softtabstop=2
+set tabstop=2
 set ruler
 set incsearch
 set statusline=\ %<%l:%v\ [%P]%=%a\ %h%m%r\ %F\
