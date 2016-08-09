@@ -49,7 +49,7 @@ call vundle#begin()
     Plugin 'taglist.vim'
     Plugin 'Source-Explorer-srcexpl.vim'
 	  Plugin 'octol/vim-cpp-enhanced-highlight'
-    Plugin 'clang-complete'
+    Plugin 'rip-rip/clang-complete'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
